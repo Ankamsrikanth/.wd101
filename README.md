@@ -1,1 +1,1 @@
-# ankamsrikanth.github.io/wd101
+# github.io/wd101
